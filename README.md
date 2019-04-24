@@ -1,5 +1,8 @@
 # graph-bed
+
 图床
+
+![](https://raw.githubusercontent.com/guanguans/graph-bed/master/images/mac-apps.png)
 
 ## LICENSE
 
